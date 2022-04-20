@@ -1,0 +1,6 @@
+[submodule "donkeycar"]
+	path = donkeycar
+	url = ./donkeycar
+[submodule "gym-donkeycar"]
+	path = gym-donkeycar
+	url = ./gym-donkeycar/
